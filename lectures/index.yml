@@ -1,44 +1,98 @@
 0:
   title: 00. За курса
-  date: 2014-10-01
-  url: https://speakerdeck.com/rbfmi/proghramiranie-s-ruby-2014-liektsiia-0
+  date: 2016-10-05
+  url: https://speakerdeck.com/gangelov/programming-ruby-at-fmi
 1:
   title: 01. Въведение в Ruby
-  date: 2014-10-06
+  date: 2016-10-10
   slug: 01-introduction-to-ruby
 2:
-  title: 02. Преглед на предизвикателството. GitHub Pull Requests
-  slug: 02-challenge-review-pull-requests
-  date: 2014-10-08
+  title: 02. Числови типове. Масиви. Речници
+  date: 2016-10-12
+  slug: 02-numerics-arrays-hashes
 3:
-  title: 03. Числови типове. Масиви. Речници
-  slug: 03-numerics-arrays-hashes
-  date: 2014-10-13
+  title: 03. Методи. Блокове. Анонимни функции.
+  date: 2016-10-17
+  slug: 03-methods-blocks-lambdas
 4:
-  title: 04. Методи. Блокове. Анонимни функции
-  slug: 04-methods-blocks-lambdas
-  date: 2014-10-20
+  title: 04. Procs. Функции от по-висок ред. Класове (част 1)
+  date: 2016-10-24
+  slug: 04-procs-hof-classes-part-1
 5:
-  title: 05. Proc обекти. Паралелно присвояване. Основи на класове. Enumerable
-  slug: 05-blocks-procs-parallel-assignment-classes-enumerable
-  date: 2014-10-22
+  title: 05. Класове (част 2). Модули. Enumerable. Наследяване
+  date: 2016-10-26
+  slug: 05-classes-modules-enumerable
 6:
-  title: 06. Класове, именовани пространства, наследяване. Синоними на методи. Класови методи
-  slug: 06-classes-namespaces-inheritance-aliases-class-methods
-  date: 2014-10-27
+  title: 06. Синоними на методи. Именовани пространства. Класови методи. Паралелно присвояване.
+  date: 2016-10-31
+  slug: 06-aliases-namespaces-class-methods-assignment
 7:
-  title: 07. Класовете и константи, case, require, Enumerator
-  slug: 07-classes-case-require-enumerator
-  date: 2014-10-29
+  title: 07. Класовете като обекти. Symbol#to_proc. Case. Замразяване
+  date: 2016-11-02
+  slug: 07-classes-as-objects-symbol-to-proc-case-freeze
 8:
-  title: 08. Enumerator. Lazy. Freeze. Класови методи. Ruby gems. Code spelunking из skeptic
-  slug: 08-enumerators-lazy-freeze-class-methods-gems-spelunking
-  date: 2014-11-03
+  title: 08. Call stack. Изключения
+  slug: 08-call-stack-exceptions
+  date: 2016-11-07
 9:
-  title: 09. Fibers. Изключения
-  slug: 09-fibers-exceptions
-  date: 2014-11-05
+  title: 09. Тестване
+  slug: 09-testing
+  date: 2016-11-09
 10:
-  title: 10. Call stack. Изключения, част 2. Структура на skeptic
-  slug: 10-call-stack-exceptions-throw-catch-solutions-review-skeptic-structure
-  date: 2014-11-10
+  title: 10. RSpec. Require
+  slug: 10-rspec-require
+  date: 2016-11-14
+11:
+  title: 11. Интроспекция и метапрограмиране, част 1
+  slug: 11-introspection-and-metaprogramming-part-1
+  date: 2016-11-16
+12:
+  title: 12. Интроспекция и метапрограмиране, част 2
+  slug: 12-introspection-and-metaprogramming-part-2
+  date: 2016-11-21
+  image: 12/mind-blown.gif
+13:
+  title: 13. Интроспекция и метапрограмиране, част 3
+  slug: 13-introspection-and-metaprogramming-part-3
+  date: 2016-11-23
+14:
+  title: 14. Регулярни изрази
+  slug: 14-regex
+  date: 2016-11-28
+  image: 14/regex_mastery.gif
+15:
+  title: 15. Пета задача. Класови променливи. Регулярни изрази, част 2
+  slug: 15-task-5-class-variables-regex-part-2
+  date: 2016-12-05
+16:
+  title: 16. Git, част 1
+  slug: 16-git-part-1
+  date: 2016-12-07
+17:
+  title: 17. Проекти. Git, част 2
+  slug: 17-projects-git-part-2
+  date: 2016-12-12
+18:
+  title: 18. Web с Ruby. Sinatra
+  slug: 18-web-and-sinatra
+  date: 2016-12-14
+19:
+  title: 19. Bundler. Ruby core и stdlib. Външни зависимости. Полезни библиотеки
+  slug: 19-bundler-ruby-core-stdlib-gems-third-party-software
+  date: 2016-12-19
+20:
+  title: 20. Enumerator. Return от блокове. Още полезни библиотеки
+  slug: 20-enumerator-next-break-gems
+  date: 2017-01-04
+21:
+  title: 21. Конкурентност
+  slug: 21-concurrency
+  date: 2017-01-08
+22:
+  title: 22. Обектно-ориентирано програмиране
+  date: 2017-01-16
+  url: https://prezi.com/sodlvwawv-un/presentation/
+23:
+  title: 23. Ruby on Rails
+  slug: 23-ruby-on-rails
+  date: 2017-01-18
